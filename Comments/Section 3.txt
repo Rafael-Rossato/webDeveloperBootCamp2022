@@ -1,3 +1,5 @@
 Lesson 22 - Paragraph(p)
 
 Lesson 23 - Headers (h1 to h6)
+
+Lesson 25 - Boilerplate (HMTL Skeleton, html, title, head, body)
